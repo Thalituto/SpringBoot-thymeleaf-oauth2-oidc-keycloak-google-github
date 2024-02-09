@@ -21,7 +21,7 @@
 <img src="Img/notauthorized.png">
 
 <p>Customer page </p>
-<img src="Img/customer.png">
+<img src="Img/vfcustomer.png">
 
 <p>Products page</p>
 <img src="Img/productsincus.png">
